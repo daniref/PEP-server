@@ -1,0 +1,3 @@
+[submodule "core/power/ykush"]
+	path = core/power/ykush
+	url = git@github.com:Yepkit/ykush.git
